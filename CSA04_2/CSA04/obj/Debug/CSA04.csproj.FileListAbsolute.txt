@@ -1,0 +1,20 @@
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\bin\Debug\CSA04.exe.config
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\bin\Debug\CSA04.exe
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\bin\Debug\CSA04.pdb
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\obj\Debug\CSA04.csproj.AssemblyReference.cache
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\obj\Debug\CSA04.Form1.resources
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\obj\Debug\CSA04.Properties.Resources.resources
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\obj\Debug\CSA04.csproj.GenerateResource.cache
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\obj\Debug\CSA04.csproj.CoreCompileInputs.cache
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\obj\Debug\CSA04.exe
+C:\Users\anna0\OneDrive\桌面\C#\J09_55題目\J09_55\CSA04\CSA04\obj\Debug\CSA04.pdb
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\bin\Debug\CSA04.exe.config
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\bin\Debug\CSA04.exe
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\bin\Debug\CSA04.pdb
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\obj\Debug\CSA04.csproj.AssemblyReference.cache
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\obj\Debug\CSA04.Form1.resources
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\obj\Debug\CSA04.Properties.Resources.resources
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\obj\Debug\CSA04.csproj.GenerateResource.cache
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\obj\Debug\CSA04.csproj.CoreCompileInputs.cache
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\obj\Debug\CSA04.exe
+C:\Users\anna0\OneDrive\桌面\C#\J09_55 - 複製\CSA04\CSA04\obj\Debug\CSA04.pdb
